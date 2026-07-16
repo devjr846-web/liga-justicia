@@ -8,7 +8,7 @@ Pueden hacer lo que quieran...
 #Liga de la justicia
 
 # Nota 
-Es un cambio directo desde GitHub
-
-# Nota 
 Es un cambio de local a git 
+
+#Nuevo cambio
+Cambios nuevos desde Git

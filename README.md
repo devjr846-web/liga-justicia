@@ -8,7 +8,8 @@ Pueden hacer lo que quieran...
 #Liga de la justicia
 
 # Nota 
-Es un cambio directo desde GitHub
+Es un cambio de local a git 
+
 
 # Nota 
-Es un cambio de local a git 
+Es un cambio de Git

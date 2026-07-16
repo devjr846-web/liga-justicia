@@ -9,3 +9,6 @@ Pueden hacer lo que quieran...
 
 # Nota 
 Es un cambio directo desde GitHub
+
+# Nota 
+Es un cambio de local a git 
